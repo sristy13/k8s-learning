@@ -4,7 +4,7 @@ metadata:
   name: first-pod
 spec:
   containers:
-  - name: nginx-test
+  - name: nginx-test-1
     image: nginx
     ports:
     - containerPort: 8080
